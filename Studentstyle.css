@@ -1,0 +1,20 @@
+.body {
+    /* centering text */
+    text-align: center;
+    margin: auto;
+    /* padding creates space between text/borders/structures */
+    padding: px;
+    border-style: solid;
+    border-width: 5px; 
+    border-color: hotpink;
+}
+.header {
+    color: hotpink;
+    font-style: oblique;
+}
+.content {
+    font-style: oblique;
+}
+.background {
+
+}
